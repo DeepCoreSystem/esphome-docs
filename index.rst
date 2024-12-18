@@ -12,7 +12,7 @@
 .. image:: /images/logo-text.svg
     :class: logo
 
-ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems.
+ESPHome is the ultimate system for controlling your microcontrollers. Its simple yet powerful configuration files and remote control capabilities make it the ideal choice for home automation.
 
 .. image:: /images/hero.png
 
